@@ -1,0 +1,13 @@
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\bin\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.exe
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\bin\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.deps.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\bin\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.runtimeconfig.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\bin\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.runtimeconfig.dev.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\bin\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\bin\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.csprojAssemblyReference.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.AssemblyInfoInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.AssemblyInfo.cs
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 5 Thao tac voi List T\obj\Debug\netcoreapp3.1\Bai 5 Thao tac voi List T.genruntimeconfig.cache
