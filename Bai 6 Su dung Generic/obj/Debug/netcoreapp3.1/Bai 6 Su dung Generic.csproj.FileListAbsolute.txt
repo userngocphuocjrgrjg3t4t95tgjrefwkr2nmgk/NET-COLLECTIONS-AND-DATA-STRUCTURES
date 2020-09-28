@@ -1,0 +1,13 @@
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\bin\Debug\netcoreapp3.1\Bai 6 Su dung Generic.exe
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\bin\Debug\netcoreapp3.1\Bai 6 Su dung Generic.deps.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\bin\Debug\netcoreapp3.1\Bai 6 Su dung Generic.runtimeconfig.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\bin\Debug\netcoreapp3.1\Bai 6 Su dung Generic.runtimeconfig.dev.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\bin\Debug\netcoreapp3.1\Bai 6 Su dung Generic.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\bin\Debug\netcoreapp3.1\Bai 6 Su dung Generic.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.csprojAssemblyReference.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.AssemblyInfoInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.AssemblyInfo.cs
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 6 Su dung Generic\obj\Debug\netcoreapp3.1\Bai 6 Su dung Generic.genruntimeconfig.cache
