@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ngocphuoc\\NET COLLECTIONS AND DATA STRUCTURES\\Bai1 su dung ArrayList CRUD Student\\Bai1 su dung ArrayList CRUD Student.csproj": {}
+  },
+  "projects": {
+    "C:\\ngocphuoc\\NET COLLECTIONS AND DATA STRUCTURES\\Bai1 su dung ArrayList CRUD Student\\Bai1 su dung ArrayList CRUD Student.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ngocphuoc\\NET COLLECTIONS AND DATA STRUCTURES\\Bai1 su dung ArrayList CRUD Student\\Bai1 su dung ArrayList CRUD Student.csproj",
+        "projectName": "Bai1 su dung ArrayList CRUD Student",
+        "projectPath": "C:\\ngocphuoc\\NET COLLECTIONS AND DATA STRUCTURES\\Bai1 su dung ArrayList CRUD Student\\Bai1 su dung ArrayList CRUD Student.csproj",
+        "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
+        "outputPath": "C:\\ngocphuoc\\NET COLLECTIONS AND DATA STRUCTURES\\Bai1 su dung ArrayList CRUD Student\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\bin\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.exe
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\bin\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.deps.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\bin\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.runtimeconfig.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\bin\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.runtimeconfig.dev.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\bin\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\bin\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.csprojAssemblyReference.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.AssemblyInfoInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.AssemblyInfo.cs
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai1 su dung ArrayList CRUD Student\obj\Debug\netcoreapp3.1\Bai1 su dung ArrayList CRUD Student.genruntimeconfig.cache

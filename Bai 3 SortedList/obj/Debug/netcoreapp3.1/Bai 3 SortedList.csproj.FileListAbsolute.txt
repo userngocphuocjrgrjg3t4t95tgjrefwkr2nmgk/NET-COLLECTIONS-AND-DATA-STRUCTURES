@@ -1,0 +1,13 @@
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\bin\Debug\netcoreapp3.1\Bai 3 SortedList.exe
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\bin\Debug\netcoreapp3.1\Bai 3 SortedList.deps.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\bin\Debug\netcoreapp3.1\Bai 3 SortedList.runtimeconfig.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\bin\Debug\netcoreapp3.1\Bai 3 SortedList.runtimeconfig.dev.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\bin\Debug\netcoreapp3.1\Bai 3 SortedList.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\bin\Debug\netcoreapp3.1\Bai 3 SortedList.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.csprojAssemblyReference.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.AssemblyInfoInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.AssemblyInfo.cs
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 3 SortedList\obj\Debug\netcoreapp3.1\Bai 3 SortedList.genruntimeconfig.cache

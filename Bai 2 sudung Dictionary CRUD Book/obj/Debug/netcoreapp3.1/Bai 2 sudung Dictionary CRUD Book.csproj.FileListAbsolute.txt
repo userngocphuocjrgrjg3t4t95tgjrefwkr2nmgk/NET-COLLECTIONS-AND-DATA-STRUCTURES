@@ -1,0 +1,13 @@
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\bin\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.exe
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\bin\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.deps.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\bin\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.runtimeconfig.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\bin\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.runtimeconfig.dev.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\bin\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\bin\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.csprojAssemblyReference.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.AssemblyInfoInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.AssemblyInfo.cs
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 2 sudung Dictionary CRUD Book\obj\Debug\netcoreapp3.1\Bai 2 sudung Dictionary CRUD Book.genruntimeconfig.cache
