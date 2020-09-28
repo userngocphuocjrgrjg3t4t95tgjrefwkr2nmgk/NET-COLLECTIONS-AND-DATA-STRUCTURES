@@ -1,0 +1,13 @@
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\bin\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.exe
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\bin\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.deps.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\bin\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.runtimeconfig.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\bin\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.runtimeconfig.dev.json
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\bin\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\bin\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.csprojAssemblyReference.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.AssemblyInfoInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.AssemblyInfo.cs
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.dll
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.pdb
+C:\ngocphuoc\NET COLLECTIONS AND DATA STRUCTURES\Bai 4 Su dung Linq voi ArrayList\obj\Debug\netcoreapp3.1\Bai 4 Su dung Linq voi ArrayList.genruntimeconfig.cache

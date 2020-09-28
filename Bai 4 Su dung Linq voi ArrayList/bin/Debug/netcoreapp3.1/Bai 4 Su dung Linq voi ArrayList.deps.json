@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bai 4 Su dung Linq voi ArrayList/1.0.0": {
+        "runtime": {
+          "Bai 4 Su dung Linq voi ArrayList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai 4 Su dung Linq voi ArrayList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
